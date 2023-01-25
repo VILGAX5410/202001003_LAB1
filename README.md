@@ -11,8 +11,10 @@ GRP 1
 Q1 Identify the functional and non functional requirements.
 ->
 FUNCTIONAL REQUIREMENTS
--1.Should maintain a database for the books.
--2.The librarian would able to update the current stock as per arrival of new books and removal of old books.
+//
+1.Should maintain a database for the books.
+//
+2.The librarian would able to update the current stock as per arrival of new books and removal of old books.
 -3.There should be an interface like a webpage for interaction with the users.
 4.The software should be able to show the details of a particular book and  its availability to the users.
 5.The software must keep a record of the books which have been borrowed by respective users.
