@@ -1,21 +1,18 @@
 # 202001003_LAB1
 
-IT-314 Software Engineering 
-LAB-1
-
-SAINENI ROHIT RAO
+#SAINENI ROHIT RAO
 202001003
 GRP 1
 
 
-Q1 Identify the functional and non functional requirements.
+#Q1 Identify the functional and non functional requirements.
 ->
-FUNCTIONAL REQUIREMENTS
-//
-1.Should maintain a database for the books._
-//
-2.The librarian would able to update the current stock as per arrival of new books and removal of old books._
--3.There should be an interface like a webpage for interaction with the users._
+#FUNCTIONAL REQUIREMENTS
+
+1.Should maintain a database for the books.
+
+2.The librarian would able to update the current stock as per arrival of new books and removal of old books.
+3.There should be an interface like a webpage for interaction with the users.
 4.The software should be able to show the details of a particular book and  its availability to the users.
 5.The software must keep a record of the books which have been borrowed by respective users.
 6.It must be able to search for a particular book in the database.
@@ -55,7 +52,8 @@ An android application should be developed to help people who suffer from disabl
 
 Features:
 
-• This Mobile application should use Artificial intelligence to detect sounds • The App should alert the users when it recognizes the sounds of critical situations
+• This Mobile application should use Artificial intelligence to detect sounds 
+• The App should alert the users when it recognizes the sounds of critical situations
 
 The predictions of the Mobile Application should be very accurate latency
 
